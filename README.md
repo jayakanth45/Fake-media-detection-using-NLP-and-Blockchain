@@ -1,4 +1,3 @@
-# Fake-media-detection-using-NLP-and-Blockchain
 # Fake Media Detection using NLP and Blockchain 📰🔗
 
 ## 📌 Project Overview  
